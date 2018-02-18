@@ -1,1 +1,1 @@
-Primer fichero en el repositorio de Javier Martinez
+Primer fichero en el repositorio de Alvaro Escobosa y Javier Martinez
